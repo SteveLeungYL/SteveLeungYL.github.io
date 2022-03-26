@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yu Liang (梁裕)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/selfie.jpg"
   bio              : "Pennsylvania State University"
   location         : "State College, PA. USA"
   employer         :
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
