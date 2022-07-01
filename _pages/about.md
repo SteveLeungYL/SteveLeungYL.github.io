@@ -20,9 +20,9 @@ redirect_from:
 I am a goal-oriented PhD student from Pennsylvania State University. My research interests include **system and software security**. I am currently researching on software vulnerability detection. My advisor is Dr. [Hong Hu](https://huhong789.github.io). 
 
 
-<!-- # 🔥 News -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+
+- *2022.05*: &nbsp;🎉🎉🎉 Our paper **"Detecting Logical Bugs of DBMS with Coverage-based Guidance"** has been accepted in USENIX Security 2022 conference. 
 
 # 📝 Publications 
 
@@ -31,7 +31,7 @@ I am a goal-oriented PhD student from Pennsylvania State University. My research
 <!-- </div> -->
 <!-- </div> -->
 
-**USENIX 2022** \| [Detecting Logical Bugs of DBMS with Coverage-based Guidance](../papers/liang-sqlright.pdf), **Yu Liang**, Song Liu, and Hong Hu. 
+**USENIX Security 2022** \| [Detecting Logical Bugs of DBMS with Coverage-based Guidance](../papers/liang-sqlright.pdf), **Yu Liang**, Song Liu, and Hong Hu. 
 
 **ASPLOS 2022** \| [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](../papers/ASPLOS22.pdf), Ziheng Liu, Shihao Xia, **Yu Liang**, Linhai Song, and Hong Hu.
 
