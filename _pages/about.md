@@ -31,11 +31,11 @@ I am a goal-oriented PhD student from Pennsylvania State University. My research
 <!-- </div> -->
 <!-- </div> -->
 
-**USENIX 2022** \| Detecting Logical Bugs of DBMS with Coverage-based Guidance, **Yu Liang**, Song Liu, and Hong Hu. 
+**USENIX 2022** \| [Detecting Logical Bugs of DBMS with Coverage-based Guidance](../papers/liang-sqlright.pdf), **Yu Liang**, Song Liu, and Hong Hu. 
 
-**ASPLOS 2022** \| [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), Ziheng Liu, Shihao Xia, **Yu Liang**, Linhai Song, and Hong Hu.
+**ASPLOS 2022** \| [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](../papers/ASPLOS22.pdf), Ziheng Liu, Shihao Xia, **Yu Liang**, Linhai Song, and Hong Hu.
 
-**AAMAS-21** \| [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Yu Liang**, Amulya Yadav 
+**AAMAS-21** \| [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic.](../papers/AAMAS21.pdf), **Yu Liang**, Amulya Yadav 
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
