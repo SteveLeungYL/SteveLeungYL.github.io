@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a goal-oriented PhD student from Pennsylvania State University. My research interests include **system and software security**. I am currently researching on software vulnerability detection. My advisor is Dr. [Hong Hu](https://huhong789.github.io). 
+I am a goal-oriented PhD student from Pennsylvania State University. My research interests include **system and software security**. I am currently researching on software vulnerability detection. My advisor is Dr. [Peng Liu](http://s2.ist.psu.edu/pliu/). 
 
 
 # 🔥 News
