@@ -35,7 +35,9 @@ I am a goal-oriented PhD student from Pennsylvania State University. My research
 
 **ASPLOS 2022** \| [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](../papers/ASPLOS22.pdf), Ziheng Liu, Shihao Xia, **Yu Liang**, Linhai Song, and Hong Hu.
 
-**AAMAS-21** \| [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic.](../papers/AAMAS21.pdf), **Yu Liang**, Amulya Yadav 
+**AAMAS-21** \| [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic](../papers/AAMAS21.pdf), **Yu Liang**, Amulya Yadav 
+
+**arXiv-25** \| [Parser Knows Best: Testing DBMS with Coverage-Guided Grammar-Rule Traversal](../papers/liang-ParserFuzz.pdf), **Yu Liang**, Hong Hu 
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
