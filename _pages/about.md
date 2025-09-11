@@ -47,9 +47,9 @@ I am a goal-oriented PhD student from Pennsylvania State University. My research
 - **2025.08 - NOW**: Research Scientist, Meta Platforms, Inc.
 
 # 📖 Educations
-- **2019.08 - 2025.08**: Ph.D. Candidate of Informatics, Pennsylvania State University
+- **2019.08 - 2025.08**: Ph.D. of Informatics, Pennsylvania State University
 - **2018.08 - 2019.08**: Master of Engineering Science, Pennsylvania State University 
-- **2014.09 - 2018.07**: Bachelor of Civil Engineering, Pennsylvania State University 
+- **2014.09 - 2018.07**: Bachelor of Civil Engineering, China University of Mining & Technology (Beijing)
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
