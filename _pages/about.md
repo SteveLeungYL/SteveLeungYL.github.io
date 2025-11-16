@@ -23,7 +23,6 @@ I am a goal-oriented research scientist working in Meta. My research interests i
 # 🔥 News
 
 - *2026.11*: &nbsp;🎉🎉🎉 Our paper **"Efficiently Detecting DBMS Bugs through Bottom-up Syntax-based SQL Generation"** has been accepted in NDSS 2026 conference. 
-- *2022.05*: &nbsp;🎉🎉🎉 Our paper **"Detecting Logical Bugs of DBMS with Coverage-based Guidance"** has been accepted in USENIX Security 2022 conference. 
 
 # 📝 Publications 
 
