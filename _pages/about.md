@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a goal-oriented PhD student from Pennsylvania State University. My research interests include **system and software security**. I am currently researching on software vulnerability detection. My advisor is Dr. [Peng Liu](http://s2.ist.psu.edu/pliu/). 
+I am a goal-oriented research scientist working in Meta. My research interests include **system and software security**. I am currently researching on software vulnerability detection. 
 
 
 # 🔥 News
 
+- *2026.11*: &nbsp;🎉🎉🎉 Our paper **"Efficiently Detecting DBMS Bugs through Bottom-up Syntax-based SQL Generation"** has been accepted in NDSS 2026 conference. 
 - *2022.05*: &nbsp;🎉🎉🎉 Our paper **"Detecting Logical Bugs of DBMS with Coverage-based Guidance"** has been accepted in USENIX Security 2022 conference. 
 
 # 📝 Publications 
@@ -30,6 +31,8 @@ I am a goal-oriented PhD student from Pennsylvania State University. My research
 <!-- <div class='paper-box-text' markdown="1"> -->
 <!-- </div> -->
 <!-- </div> -->
+
+**NDSS 2026** \| [Efficiently Detecting DBMS Bugs through Bottom-up Syntax-based SQL Generation](../papers/liang-sqlbull.pdf), **Yu Liang**, Peng Liu. 
 
 **USENIX Security 2022** \| [Detecting Logical Bugs of DBMS with Coverage-based Guidance](../papers/liang-sqlright.pdf), **Yu Liang**, Song Liu, and Hong Hu. 
 
