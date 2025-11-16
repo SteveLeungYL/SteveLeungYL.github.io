@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Liang"
-description              : "Ph.D. Candidate From Pennsylvania State University. System Security Researcher. "
+description              : "Research Scientist in Meta Platforms, Inc. Ph.D. From Pennsylvania State University. "
 repository               : "SteveLeungYL/SteveLeungYL.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Liang (梁裕)"
   avatar           : "images/selfie.jpg"
-  bio              : "Pennsylvania State University"
+  bio              : "Research Scientist"
   location         : "State College, PA. USA"
   employer         :
   pubmed           : 
